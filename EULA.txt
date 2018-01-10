@@ -1,0 +1,86 @@
+﻿END USER LICENCE AGREEMENT FOR THE MALI TEXTURE COMPRESSION TOOL v4.3
+
+THIS END USER LICENCE AGREEMENT (“LICENCE”) IS A LEGAL AGREEMENT BETWEEN YOU (EITHER A SINGLE INDIVIDUAL, OR SINGLE LEGAL ENTITY) AND ARM LIMITED ("ARM") FOR THE USE OF THE DELIVERABLES ACCOMPANYING THIS LICENCE. ARM IS ONLY WILLING TO LICENSE THE DELIVERABLES TO YOU ON CONDITION THAT YOU ACCEPT ALL OF THE TERMS IN THIS LICENCE. BY CLICKING “I AGREE” OR BY INSTALLING OR OTHERWISE USING OR COPYING THE DELIVERABLES YOU INDICATE THAT YOU AGREE TO BE BOUND BY ALL THE TERMS OF THIS LICENCE.
+
+1.  DEFINITIONS.
+
+“Authorised Purpose” means the use of the Deliverables to compress texture images and deliver such compressed texture images to end users.
+
+“Deliverables” means the software binaries accompanying this Licence, and any printed, electronic or online documentation supplied with it, in all cases relating to the Mali Texture Compression Tool.
+
+“Input” means all suggestions, comments, feedback, ideas, or know-how (whether in oral or written form) provided by you to ARM under this Licence and in connection with the Deliverables.
+
+“Software Applications” means the compressed texture images developed by you under this Licence.
+
+“Subsidiary” means any company the majority of whose voting shares is now or hereafter owned or controlled, directly or indirectly, by ARM.  A company shall be a Subsidiary only for the period during which such control exists.
+
+
+2. LICENCE GRANT.
+
+2.1 DELIVERABLES: ARM hereby grants to you, subject to the terms and conditions of this Licence, a nonexclusive, nontransferable, royalty free, worldwide licence to use and copy the Deliverables solely for the Authorised Purpose.
+
+Licence to ARM
+2.2  You may at your discretion deliver any Input to ARM.
+
+2.3 Except as expressly agreed to the contrary in writing by both parties, you hereby grant to ARM and its Subsidiaries under your and your affiliates (as applicable) intellectual property a perpetual, irrevocable, royalty free, non-exclusive, worldwide licence to: (i) use, copy, modify, and create derivative works of the Input as part of any or all of the Deliverables and any other ARM product(s); (ii) sell, supply or otherwise distribute the whole or any part of the Input (and derivative works thereof) as part of any or all of the Deliverables and any other ARM product(s); and (iii) sublicense to third parties the foregoing rights, including the right to sublicense to further third parties. No right is granted by you to ARM to sublicense your and your affiliates (as applicable) intellectual property except to the extent that it is provided to ARM as Input and is embodied in any or all of the Deliverables and any other ARM product(s).
+
+2.4 Except as expressly licensed to ARM in Clause 2.3, you retain all right, title and interest in and to the Input provided by you under this Licence.
+
+2.5 You shall not knowingly give to ARM any Input you have reason to believe is subject to any patent, copyright or other intellectual property claim or right of any third party.
+
+2.6 For the avoidance of doubt, ARM shall be free to use, copy, disclose or otherwise distribute any Input as part of any or all of the Deliverables and any other ARM product(s) to any third party or pursuant to any of the licences granted in Clause 2.3 without obligation or restriction of any kind.
+
+
+3. RESTRICTIONS ON USE OF THE DELIVERABLES.
+
+REVERSE ENGINEERING: Except to the extent that such activity is permitted by applicable law you shall not reverse engineer, decompile or disassemble any of the Deliverables. If the Deliverables were provided to you in Europe you shall not reverse engineer, decompile or disassemble any of the Deliverables for the purposes of error correction.
+
+RESTRICTIONS ON TRANSFER OF LICENSED RIGHTS: The rights granted to you under this agreement may not be assigned, sublicensed, or otherwise transferred by you to any third party without the prior written consent of ARM. You shall not rent or lease the Deliverables, or except as expressly provided above, share them with third parties.  No right is granted to modify or distribute the source code of any Deliverables so that is becomes subject to a licence that requires as a condition of use, modification or distribution, that the code be disclosed or distributed in source code or that others have the right to modify it.
+
+TITLE AND RESERVATION OF RIGHTS: You acquire no rights to the Deliverables other than as expressly provided by this Licence. The Deliverables are licensed not sold. ARM does not transfer title to the Deliverables to you. In no event shall the licences granted in Clause 2 be construed as granting you expressly or by implication, estoppel or otherwise, licences to any ARM technology other than the Deliverables.
+
+NOTICES: You shall not remove from the Deliverables any copyright notice or other notice (whether ARM’s or its licensor’s), and you shall ensure that any such notice is reproduced in any copies of the whole or any part of the Deliverables made by you.  You shall not use ARM’s or its licensor’s name, logo or trademarks to market Software Applications.
+
+4.  OPEN SOURCE SOFTWARE
+The Deliverables contains open source software. Such open source software is subject to the terms of the applicable open source license(s) and is not covered under the terms and conditions of this Agreement. Information about such open source software accompanies the Deliverables.
+
+5.   MICROSOFT REDISTRIBUTABLES
+The Deliverables installed using the windows installer contain files redistibuted under licence from Microsoft Corporation, and you agree to indemnify, defend and hold harmless ARM from any claims including attorneys’ fees related to the distribution or use of your Software Applications or the use by you of the Deliverables. Microsoft specific files shall not be used on platforms other than a Windows platform.
+
+6. PRODUCT IMPROVEMENT FEATURE
+The Deliverables include features that enable the Deliverables to automatically connect to ARM’s or its service providers computer systems over the internet in order for any and all of ARM and its Subsidiaries to understand and analyse what components or features in the Deliverables you are using to improve the Deliverables and your experience with the Deliverables. These connections may transmit certain computer information to ARM or its services provider’s computer systems, including but not limited to your computer’s internet protocol address and operating system. You have the option to turn off this feature in the Deliverables by updating the relevant setting in your list of preferences for the Deliverables. The data collected by the Deliverables is anonymous and will only be used for the aforementioned purposes.
+
+
+7. NO SUPPORT.
+ARM has no obligation to support or to continue providing or updating any of the Deliverables.
+
+8. NO WARRANTIES.
+YOU AGREE THAT THE DELIVERABLES ARE LICENSED “AS IS”, AND THAT ARM AND ANY THIRD PARTY LICENSOR EXPRESSLY DISCLAIMS ALL REPRESENTATIONS, WARRANTIES, CONDITIONS OR OTHER TERMS, EXPRESS OR IMPLIED, INCLUDING WITHOUT LIMITATION THE IMPLIED WARRANTIES OF NON-INFRINGEMENT, TITLE, SATISFACTORY QUALITY, MERCHANTIBILITY, AND FITNESS FOR A PARTICULAR PURPOSE.
+
+YOU EXPRESSLY ASSUME ALL LIABILITIES AND RISKS, FOR USE OR OPERATION OF ANY APPLICATION PROGRAMS YOU CREATE WITH THE DELIVERABLES, AND YOU ASSUME THE ENTIRE COST OF ALL NECESSARY SERVICING, REPAIR OR CORRECTION.
+
+9. LIMITATION OF LIABILITY.
+TO THE MAXIMUM EXTENT PERMITTED BY APPLICABLE LAW, IN NO EVENT SHALL ARM OR ITS LICENSORS BE LIABLE FOR ANY INDIRECT, SPECIAL, INCIDENTAL OR CONSEQUENTIAL DAMAGES (INCLUDING LOSS OF PROFITS) ARISING OUT OF THE USE OR INABILITY TO USE THE DELIVERABLES WHETHER BASED ON A CLAIM UNDER CONTRACT, TORT OR OTHER LEGAL THEORY, EVEN IF ARM OR ANY SUCH LICENSOR WAS ADVISED OF THE POSSIBILITY OF SUCH DAMAGES.
+
+ARM does not seek to limit or exclude liability for death or personal injury arising from ARM's negligence and because some jurisdictions do not permit the exclusion or limitation of liability for consequential or incidental damages the above limitation relating to liability for consequential damages may not apply to you.
+
+NOTWITHSTANDING ANYTHING TO THE CONTRARY CONTAINED IN THIS LICENCE, THE MAXIMUM LIABILITY OF ARM TO YOU IN AGGREGATE FOR ALL CLAIMS MADE AGAINST ARM IN CONTRACT TORT OR OTHERWISE UNDER OR IN CONNECTION WITH THE SUBJECT MATTER OF THIS LICENCE SHALL NOT EXCEED THE GREATER OF THE TOTAL OF SUMS PAID BY YOU TO ARM (IF ANY) FOR THIS LICENCE AND US$5.00.
+
+10. U.S. GOVERNMENT END USERS.
+US Government Restrictions: Use, duplication, reproduction, release, modification, disclosure or transfer of this commercial product and accompanying documentation is restricted in accordance with the terms of this Licence.
+
+11. TERM AND TERMINATION.
+This Licence shall remain in force until terminated by you or by ARM. Without prejudice to any of its other rights if you are in breach of any of the terms and conditions of this Licence then ARM may terminate this Licence immediately upon giving written notice to you. You may terminate this Licence at any time.
+
+Upon termination of this Licence by you or by ARM you shall stop using the Deliverables and destroy all copies of the Deliverables in your possession together with all documentation and related materials.
+
+The provisions of Clauses 1, 2.3 – 2.6, 4, 5, 8, 9, 10, 11 and 12 shall survive termination of this Licence.
+
+12. GENERAL.
+This Licence is governed by English Law. Except where ARM agrees otherwise in a written contract signed by you and ARM, this is the only agreement between you and ARM relating to the Deliverables and it may only be modified by written agreement between you and ARM. Except as expressly agreed in writing, this Licence may not be modified by purchase orders, advertising or other representation by any person. If any clause in this Licence is held by a court of law to be illegal or unenforceable the remaining provisions of this Licence shall not be affected thereby. The failure by ARM to enforce any of the provisions of this Licence, unless waived in writing, shall not constitute a waiver of ARM's rights to enforce such provision or any other provision of this Licence in the future.
+
+You agree to comply fully with all laws and regulations of the United States and other countries ("Export Laws") to assure that the Deliverables are not (1) exported, directly or indirectly, in violation of Export Laws, either to any countries that are subject to U.S.A. export restrictions or to any end user who has been prohibited from participating in the U.S.A. export transactions by any federal agency of the U.S.A. government; or (2) intended to be used for any purpose prohibited by Export Laws, including, without limitation, nuclear, chemical, or biological weapons proliferation.
+
+
+ARM contract reference:  LEC-PRE-00465
+
